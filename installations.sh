@@ -1,0 +1,1 @@
+sudo yum remove MariaDB-server MariaDB-client
